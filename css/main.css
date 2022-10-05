@@ -56,8 +56,7 @@ body {
   border: 0;
   padding: 0;
   white-space: nowrap;
-  -webkit-clip-path: inset(100%);
-          clip-path: inset(100%);
+  clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
@@ -990,4 +989,4 @@ label {
   font-size: 16px;
   line-height: 1.88;
   color: var(--text-color-secondary);
-}
+}/*# sourceMappingURL=main.css.map */
